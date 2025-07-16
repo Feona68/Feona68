@@ -117,28 +117,28 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/krishnapriya-prasannan" target="_blank">
+  <a href="https://linkedin.com/in/feona-teresa" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
-  <a href="mailto:krishnapriyaprasannan1@gmail.com" target="_blank">
+  <a href="mailto:feonateresafly@gmail.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
   </a>
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishnapriya-prasannan&label=Profile%20views&color=0e75b6&style=flat" alt="Krishnapriya-prasannan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Feona68&label=Profile%20views&color=0e75b6&style=flat" alt="Feona" /> </p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Krishnapriya-prasannan" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Feona68" /></a> </p>
 <!-- GitHub Stats Section -->
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishnapriya-prasannan&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Krishnapriya-prasannan&show_icons=true&locale=en" alt="GitHub Stats" /></td></tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Feona68&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Feona68&show_icons=true&locale=en" alt="GitHub Stats" /></td></tr>
   </table>
 </div>
 
-  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapriya-prasannan" alt="GitHub Streak" /></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Feona68" alt="GitHub Streak" /></td>
 
 
 ---
